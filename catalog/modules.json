@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-08",
+  "domains": [
+    {
+      "id": "A",
+      "slug": "portfolio-content",
+      "title": "Portfolio Strategy & Content"
+    },
+    {
+      "id": "B",
+      "slug": "visual-design",
+      "title": "Visual Design & Art Direction"
+    },
+    {
+      "id": "C",
+      "slug": "ux-accessibility",
+      "title": "UX, Interaction & Accessibility"
+    },
+    {
+      "id": "D",
+      "slug": "frontend-engineering",
+      "title": "Frontend Engineering"
+    },
+    {
+      "id": "E",
+      "slug": "architecture-tooling",
+      "title": "Architecture, Components & Tooling"
+    },
+    {
+      "id": "F",
+      "slug": "motion",
+      "title": "Motion Design & Engineering"
+    },
+    {
+      "id": "G",
+      "slug": "performance-reliability",
+      "title": "Performance, Reliability & Security"
+    },
+    {
+      "id": "H",
+      "slug": "verification-production",
+      "title": "Verification, Publishing & Maintenance"
+    }
+  ],
+  "modules": [
+    {
+      "id": "M01",
+      "number": 1,
+      "title": "Portfolio Strategy",
+      "domain": "A",
+      "path": "knowledge/portfolio-content/01-portfolio-strategy.md",
+      "prerequisites": []
+    },
+    {
+      "id": "M02",
+      "number": 2,
+      "title": "Content Architecture",
+      "domain": "A",
+      "path": "knowledge/portfolio-content/02-content-architecture.md",
+      "prerequisites": [
+        "M01"
+      ]
+    },
+    {
+      "id": "M03",
+      "number": 3,
+      "title": "Case Study & Evidence",
+      "domain": "A",
+      "path": "knowledge/portfolio-content/03-case-study-evidence.md",
+      "prerequisites": [
+        "M01",
+        "M02"
+      ]
+    },
+    {
+      "id": "M04",
+      "number": 4,
+      "title": "Writing & Storytelling",
+      "domain": "A",
+      "path": "knowledge/portfolio-content/04-writing-storytelling.md",
+      "prerequisites": [
+        "M01",
+        "M02",
+        "M03"
+      ]
+    },
+    {
+      "id": "M05",
+      "number": 5,
+      "title": "Art Direction & Identity",
+      "domain": "B",
+      "path": "knowledge/visual-design/05-art-direction-identity.md",
+      "prerequisites": [
+        "M01",
+        "M02"
+      ]
+    },
+    {
+      "id": "M06",
+      "number": 6,
+      "title": "Composition & Layout",
+      "domain": "B",
+      "path": "knowledge/visual-design/06-composition-layout.md",
+      "prerequisites": [
+        "M02",
+        "M05"
+      ]
+    },
+    {
+      "id": "M07",
+      "number": 7,
+      "title": "Typography",
+      "domain": "B",
+      "path": "knowledge/visual-design/07-typography.md",
+      "prerequisites": [
+        "M05",
+        "M06"
+      ]
+    },
+    {
+      "id": "M08",
+      "number": 8,
+      "title": "Color, Surface & Assets",
+      "domain": "B",
+      "path": "knowledge/visual-design/08-color-surface-assets.md",
+      "prerequisites": [
+        "M05",
+        "M06",
+        "M07"
+      ]
+    },
+    {
+      "id": "M09",
+      "number": 9,
+      "title": "User Experience & Research",
+      "domain": "C",
+      "path": "knowledge/ux-accessibility/09-ux-research.md",
+      "prerequisites": [
+        "M01",
+        "M02"
+      ]
+    },
+    {
+      "id": "M10",
+      "number": 10,
+      "title": "Interaction Design",
+      "domain": "C",
+      "path": "knowledge/ux-accessibility/10-interaction-design.md",
+      "prerequisites": [
+        "M09",
+        "M14",
+        "M16"
+      ]
+    },
+    {
+      "id": "M11",
+      "number": 11,
+      "title": "Responsive & Adaptive Experience",
+      "domain": "C",
+      "path": "knowledge/ux-accessibility/11-responsive-adaptive.md",
+      "prerequisites": [
+        "M06",
+        "M15"
+      ]
+    },
+    {
+      "id": "M12",
+      "number": 12,
+      "title": "Accessibility & Inclusive Design",
+      "domain": "C",
+      "path": "knowledge/ux-accessibility/12-accessibility.md",
+      "prerequisites": [
+        "M09",
+        "M14",
+        "M15"
+      ]
+    },
+    {
+      "id": "M13",
+      "number": 13,
+      "title": "Web & Browser Foundations",
+      "domain": "D",
+      "path": "knowledge/frontend-engineering/13-web-browser-foundations.md",
+      "prerequisites": []
+    },
+    {
+      "id": "M14",
+      "number": 14,
+      "title": "HTML Engineering",
+      "domain": "D",
+      "path": "knowledge/frontend-engineering/14-html-engineering.md",
+      "prerequisites": [
+        "M13"
+      ]
+    },
+    {
+      "id": "M15",
+      "number": 15,
+      "title": "CSS Engineering",
+      "domain": "D",
+      "path": "knowledge/frontend-engineering/15-css-engineering.md",
+      "prerequisites": [
+        "M13",
+        "M14"
+      ]
+    },
+    {
+      "id": "M16",
+      "number": 16,
+      "title": "JavaScript & Type Systems",
+      "domain": "D",
+      "path": "knowledge/frontend-engineering/16-javascript-types.md",
+      "prerequisites": [
+        "M13",
+        "M14"
+      ]
+    },
+    {
+      "id": "M17",
+      "number": 17,
+      "title": "Frontend Architecture",
+      "domain": "E",
+      "path": "knowledge/architecture-tooling/17-frontend-architecture.md",
+      "prerequisites": [
+        "M02",
+        "M13",
+        "M14",
+        "M15",
+        "M16"
+      ]
+    },
+    {
+      "id": "M18",
+      "number": 18,
+      "title": "Design System & Components",
+      "domain": "E",
+      "path": "knowledge/architecture-tooling/18-design-system-components.md",
+      "prerequisites": [
+        "M05",
+        "M06",
+        "M07",
+        "M08",
+        "M10",
+        "M12",
+        "M15"
+      ]
+    },
+    {
+      "id": "M19",
+      "number": 19,
+      "title": "Development & Build Tooling",
+      "domain": "E",
+      "path": "knowledge/architecture-tooling/19-development-tooling.md",
+      "prerequisites": [
+        "M13",
+        "M17"
+      ]
+    },
+    {
+      "id": "M20",
+      "number": 20,
+      "title": "AI-Assisted Engineering",
+      "domain": "E",
+      "path": "knowledge/architecture-tooling/20-ai-assisted-engineering.md",
+      "prerequisites": [
+        "M01",
+        "M17",
+        "M19"
+      ]
+    },
+    {
+      "id": "M21",
+      "number": 21,
+      "title": "Motion Foundations",
+      "domain": "F",
+      "path": "knowledge/motion/21-motion-foundations.md",
+      "prerequisites": [
+        "M05",
+        "M06",
+        "M10"
+      ]
+    },
+    {
+      "id": "M22",
+      "number": 22,
+      "title": "Interface Motion",
+      "domain": "F",
+      "path": "knowledge/motion/22-interface-motion.md",
+      "prerequisites": [
+        "M10",
+        "M12",
+        "M16",
+        "M21"
+      ]
+    },
+    {
+      "id": "M23",
+      "number": 23,
+      "title": "Scroll & Visual Storytelling",
+      "domain": "F",
+      "path": "knowledge/motion/23-scroll-storytelling.md",
+      "prerequisites": [
+        "M02",
+        "M11",
+        "M12",
+        "M21",
+        "M22"
+      ]
+    },
+    {
+      "id": "M24",
+      "number": 24,
+      "title": "Animation & Graphics Engineering",
+      "domain": "F",
+      "path": "knowledge/motion/24-animation-graphics.md",
+      "prerequisites": [
+        "M13",
+        "M15",
+        "M16",
+        "M21"
+      ]
+    },
+    {
+      "id": "M25",
+      "number": 25,
+      "title": "Loading & Asset Performance",
+      "domain": "G",
+      "path": "knowledge/performance-reliability/25-loading-assets.md",
+      "prerequisites": [
+        "M13",
+        "M14",
+        "M19"
+      ]
+    },
+    {
+      "id": "M26",
+      "number": 26,
+      "title": "Runtime & Motion Performance",
+      "domain": "G",
+      "path": "knowledge/performance-reliability/26-runtime-performance.md",
+      "prerequisites": [
+        "M13",
+        "M16",
+        "M24"
+      ]
+    },
+    {
+      "id": "M27",
+      "number": 27,
+      "title": "Reliability & Compatibility",
+      "domain": "G",
+      "path": "knowledge/performance-reliability/27-reliability-compatibility.md",
+      "prerequisites": [
+        "M11",
+        "M12",
+        "M13",
+        "M17"
+      ]
+    },
+    {
+      "id": "M28",
+      "number": 28,
+      "title": "Static-Site Security & Privacy",
+      "domain": "G",
+      "path": "knowledge/performance-reliability/28-security-privacy.md",
+      "prerequisites": [
+        "M13",
+        "M14",
+        "M16",
+        "M19"
+      ]
+    },
+    {
+      "id": "M29",
+      "number": 29,
+      "title": "Testing & Design QA",
+      "domain": "H",
+      "path": "knowledge/verification-production/29-testing-design-qa.md",
+      "prerequisites": [
+        "M10",
+        "M11",
+        "M12",
+        "M17",
+        "M27",
+        "M28"
+      ]
+    },
+    {
+      "id": "M30",
+      "number": 30,
+      "title": "Performance Measurement",
+      "domain": "H",
+      "path": "knowledge/verification-production/30-performance-measurement.md",
+      "prerequisites": [
+        "M25",
+        "M26",
+        "M29"
+      ]
+    },
+    {
+      "id": "M31",
+      "number": 31,
+      "title": "GitHub Production & Discoverability",
+      "domain": "H",
+      "path": "knowledge/verification-production/31-github-production-seo.md",
+      "prerequisites": [
+        "M02",
+        "M14",
+        "M19",
+        "M28",
+        "M29"
+      ]
+    },
+    {
+      "id": "M32",
+      "number": 32,
+      "title": "Maintenance & Feedback",
+      "domain": "H",
+      "path": "knowledge/verification-production/32-maintenance-feedback.md",
+      "prerequisites": [
+        "M29",
+        "M30",
+        "M31"
+      ]
+    }
+  ]
+}

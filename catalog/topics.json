@@ -1,0 +1,1622 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "M01.T01",
+      "module": "M01",
+      "title": "Tujuan dan ruang lingkup",
+      "path": "knowledge/portfolio-content/01-portfolio-strategy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M01.T02",
+      "module": "M01",
+      "title": "Audiens, positioning, dan tugas",
+      "path": "knowledge/portfolio-content/01-portfolio-strategy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M01.T03",
+      "module": "M01",
+      "title": "Kontrak hasil",
+      "path": "knowledge/portfolio-content/01-portfolio-strategy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M01.T04",
+      "module": "M01",
+      "title": "Prioritas dan pemilihan proyek",
+      "path": "knowledge/portfolio-content/01-portfolio-strategy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M01.T05",
+      "module": "M01",
+      "title": "Ukuran keberhasilan",
+      "path": "knowledge/portfolio-content/01-portfolio-strategy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M01.T06",
+      "module": "M01",
+      "title": "Kegagalan dan keputusan",
+      "path": "knowledge/portfolio-content/01-portfolio-strategy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M02.T01",
+      "module": "M02",
+      "title": "Informasi sebelum layout",
+      "path": "knowledge/portfolio-content/02-content-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M02.T02",
+      "module": "M02",
+      "title": "Hierarki dan navigasi",
+      "path": "knowledge/portfolio-content/02-content-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M02.T03",
+      "module": "M02",
+      "title": "Model data konten",
+      "path": "knowledge/portfolio-content/02-content-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M02.T04",
+      "module": "M02",
+      "title": "URL, jalur, dan orientasi",
+      "path": "knowledge/portfolio-content/02-content-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M02.T05",
+      "module": "M02",
+      "title": "Progressive disclosure dan penemuan",
+      "path": "knowledge/portfolio-content/02-content-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M02.T06",
+      "module": "M02",
+      "title": "Bahasa, arsip, dan isi yang berubah",
+      "path": "knowledge/portfolio-content/02-content-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M02.T07",
+      "module": "M02",
+      "title": "Diagnosis",
+      "path": "knowledge/portfolio-content/02-content-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M03.T01",
+      "module": "M03",
+      "title": "Case study sebagai penalaran yang dapat diperiksa",
+      "path": "knowledge/portfolio-content/03-case-study-evidence.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M03.T02",
+      "module": "M03",
+      "title": "Struktur narasi",
+      "path": "knowledge/portfolio-content/03-case-study-evidence.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M03.T03",
+      "module": "M03",
+      "title": "Jenis bukti",
+      "path": "knowledge/portfolio-content/03-case-study-evidence.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M03.T04",
+      "module": "M03",
+      "title": "Status proyek dan kejujuran editorial",
+      "path": "knowledge/portfolio-content/03-case-study-evidence.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M03.T05",
+      "module": "M03",
+      "title": "Media dan anotasi",
+      "path": "knowledge/portfolio-content/03-case-study-evidence.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M03.T06",
+      "module": "M03",
+      "title": "Rubrik kedalaman",
+      "path": "knowledge/portfolio-content/03-case-study-evidence.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M03.T07",
+      "module": "M03",
+      "title": "Kegagalan umum",
+      "path": "knowledge/portfolio-content/03-case-study-evidence.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M04.T01",
+      "module": "M04",
+      "title": "Writing untuk membantu keputusan",
+      "path": "knowledge/portfolio-content/04-writing-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M04.T02",
+      "module": "M04",
+      "title": "Storytelling dan suara",
+      "path": "knowledge/portfolio-content/04-writing-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M04.T03",
+      "module": "M04",
+      "title": "Microcopy dan status",
+      "path": "knowledge/portfolio-content/04-writing-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M04.T04",
+      "module": "M04",
+      "title": "Penyuntingan dan keterbacaan",
+      "path": "knowledge/portfolio-content/04-writing-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M04.T05",
+      "module": "M04",
+      "title": "Bahasa dan format",
+      "path": "knowledge/portfolio-content/04-writing-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M04.T06",
+      "module": "M04",
+      "title": "Search dan sharing",
+      "path": "knowledge/portfolio-content/04-writing-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M04.T07",
+      "module": "M04",
+      "title": "Diagnosis editorial",
+      "path": "knowledge/portfolio-content/04-writing-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M05.T01",
+      "module": "M05",
+      "title": "Konsep yang mengikat keputusan",
+      "path": "knowledge/visual-design/05-art-direction-identity.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M05.T02",
+      "module": "M05",
+      "title": "Referensi dan orisinalitas",
+      "path": "knowledge/visual-design/05-art-direction-identity.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M05.T03",
+      "module": "M05",
+      "title": "Kontras karakter dan konsistensi",
+      "path": "knowledge/visual-design/05-art-direction-identity.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M05.T04",
+      "module": "M05",
+      "title": "Sistem keputusan visual",
+      "path": "knowledge/visual-design/05-art-direction-identity.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M05.T05",
+      "module": "M05",
+      "title": "Presentasi karya dan identitas pemilik",
+      "path": "knowledge/visual-design/05-art-direction-identity.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M05.T06",
+      "module": "M05",
+      "title": "Trade-off dan diagnosis",
+      "path": "knowledge/visual-design/05-art-direction-identity.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M06.T01",
+      "module": "M06",
+      "title": "Layout sebagai hubungan",
+      "path": "knowledge/visual-design/06-composition-layout.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M06.T02",
+      "module": "M06",
+      "title": "Grid, alignment dan proporsi",
+      "path": "knowledge/visual-design/06-composition-layout.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M06.T03",
+      "module": "M06",
+      "title": "Ritme halaman",
+      "path": "knowledge/visual-design/06-composition-layout.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M06.T04",
+      "module": "M06",
+      "title": "Responsive composition",
+      "path": "knowledge/visual-design/06-composition-layout.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M06.T05",
+      "module": "M06",
+      "title": "Kepadatan dan responsive content",
+      "path": "knowledge/visual-design/06-composition-layout.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M06.T06",
+      "module": "M06",
+      "title": "QA visual",
+      "path": "knowledge/visual-design/06-composition-layout.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M06.T07",
+      "module": "M06",
+      "title": "Diagnosis",
+      "path": "knowledge/visual-design/06-composition-layout.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M07.T01",
+      "module": "M07",
+      "title": "Peran tipografi",
+      "path": "knowledge/visual-design/07-typography.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M07.T02",
+      "module": "M07",
+      "title": "Pemilihan font",
+      "path": "knowledge/visual-design/07-typography.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M07.T03",
+      "module": "M07",
+      "title": "Skala dan ritme",
+      "path": "knowledge/visual-design/07-typography.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M07.T04",
+      "module": "M07",
+      "title": "Detail optik",
+      "path": "knowledge/visual-design/07-typography.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M07.T05",
+      "module": "M07",
+      "title": "Loading dan fallback",
+      "path": "knowledge/visual-design/07-typography.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M07.T06",
+      "module": "M07",
+      "title": "Konten dan akses",
+      "path": "knowledge/visual-design/07-typography.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M07.T07",
+      "module": "M07",
+      "title": "Diagnosis",
+      "path": "knowledge/visual-design/07-typography.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M08.T01",
+      "module": "M08",
+      "title": "Palet berdasarkan peran",
+      "path": "knowledge/visual-design/08-color-surface-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M08.T02",
+      "module": "M08",
+      "title": "Kontras dan informasi",
+      "path": "knowledge/visual-design/08-color-surface-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M08.T03",
+      "module": "M08",
+      "title": "Surface, kedalaman dan material",
+      "path": "knowledge/visual-design/08-color-surface-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M08.T04",
+      "module": "M08",
+      "title": "Sistem ikon dan ilustrasi",
+      "path": "knowledge/visual-design/08-color-surface-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M08.T05",
+      "module": "M08",
+      "title": "Fotografi, screenshot dan crop",
+      "path": "knowledge/visual-design/08-color-surface-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M08.T06",
+      "module": "M08",
+      "title": "Pipeline media",
+      "path": "knowledge/visual-design/08-color-surface-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M08.T07",
+      "module": "M08",
+      "title": "Diagnosis",
+      "path": "knowledge/visual-design/08-color-surface-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M09.T01",
+      "module": "M09",
+      "title": "UX sebagai keberhasilan tugas",
+      "path": "knowledge/ux-accessibility/09-ux-research.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M09.T02",
+      "module": "M09",
+      "title": "Riset yang sesuai cakupan",
+      "path": "knowledge/ux-accessibility/09-ux-research.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M09.T03",
+      "module": "M09",
+      "title": "Protokol tugas netral",
+      "path": "knowledge/ux-accessibility/09-ux-research.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M09.T04",
+      "module": "M09",
+      "title": "Mekanisme persepsi dan beban",
+      "path": "knowledge/ux-accessibility/09-ux-research.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M09.T05",
+      "module": "M09",
+      "title": "Pengukuran dan sintesis",
+      "path": "knowledge/ux-accessibility/09-ux-research.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M09.T06",
+      "module": "M09",
+      "title": "Consent dan minimisasi",
+      "path": "knowledge/ux-accessibility/09-ux-research.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M09.T07",
+      "module": "M09",
+      "title": "Diagnosis",
+      "path": "knowledge/ux-accessibility/09-ux-research.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M10.T01",
+      "module": "M10",
+      "title": "Kontrak interaksi",
+      "path": "knowledge/ux-accessibility/10-interaction-design.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M10.T02",
+      "module": "M10",
+      "title": "Semantik dan affordance",
+      "path": "knowledge/ux-accessibility/10-interaction-design.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M10.T03",
+      "module": "M10",
+      "title": "Filter dan disclosure",
+      "path": "knowledge/ux-accessibility/10-interaction-design.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M10.T04",
+      "module": "M10",
+      "title": "Menu dan dialog",
+      "path": "knowledge/ux-accessibility/10-interaction-design.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M10.T05",
+      "module": "M10",
+      "title": "Feedback dan tindakan asynchronous",
+      "path": "knowledge/ux-accessibility/10-interaction-design.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M10.T06",
+      "module": "M10",
+      "title": "Kendali dan motion",
+      "path": "knowledge/ux-accessibility/10-interaction-design.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M10.T07",
+      "module": "M10",
+      "title": "Kegagalan yang perlu diuji",
+      "path": "knowledge/ux-accessibility/10-interaction-design.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M11.T01",
+      "module": "M11",
+      "title": "Responsive bukan mengecilkan desktop",
+      "path": "knowledge/ux-accessibility/11-responsive-adaptive.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M11.T02",
+      "module": "M11",
+      "title": "Ukuran dan unit",
+      "path": "knowledge/ux-accessibility/11-responsive-adaptive.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M11.T03",
+      "module": "M11",
+      "title": "Input capability",
+      "path": "knowledge/ux-accessibility/11-responsive-adaptive.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M11.T04",
+      "module": "M11",
+      "title": "Content resilience",
+      "path": "knowledge/ux-accessibility/11-responsive-adaptive.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M11.T05",
+      "module": "M11",
+      "title": "Orientasi, zoom dan fokus",
+      "path": "knowledge/ux-accessibility/11-responsive-adaptive.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M11.T06",
+      "module": "M11",
+      "title": "Matriks perangkat",
+      "path": "knowledge/ux-accessibility/11-responsive-adaptive.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M11.T07",
+      "module": "M11",
+      "title": "Diagnosis",
+      "path": "knowledge/ux-accessibility/11-responsive-adaptive.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M12.T01",
+      "module": "M12",
+      "title": "Aksesibilitas sebagai fondasi",
+      "path": "knowledge/ux-accessibility/12-accessibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M12.T02",
+      "module": "M12",
+      "title": "Sasaran dan batas konformansi",
+      "path": "knowledge/ux-accessibility/12-accessibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M12.T03",
+      "module": "M12",
+      "title": "Struktur dan nama",
+      "path": "knowledge/ux-accessibility/12-accessibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M12.T04",
+      "module": "M12",
+      "title": "Keyboard dan fokus",
+      "path": "knowledge/ux-accessibility/12-accessibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M12.T05",
+      "module": "M12",
+      "title": "Ukuran, warna dan media",
+      "path": "knowledge/ux-accessibility/12-accessibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M12.T06",
+      "module": "M12",
+      "title": "Motion dan kendali",
+      "path": "knowledge/ux-accessibility/12-accessibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M12.T07",
+      "module": "M12",
+      "title": "Verifikasi dan diagnosis",
+      "path": "knowledge/ux-accessibility/12-accessibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M13.T01",
+      "module": "M13",
+      "title": "Dari URL menjadi halaman",
+      "path": "knowledge/frontend-engineering/13-web-browser-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M13.T02",
+      "module": "M13",
+      "title": "Parsing dan struktur",
+      "path": "knowledge/frontend-engineering/13-web-browser-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M13.T03",
+      "module": "M13",
+      "title": "Pipeline rendering",
+      "path": "knowledge/frontend-engineering/13-web-browser-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M13.T04",
+      "module": "M13",
+      "title": "Event loop dan frame",
+      "path": "knowledge/frontend-engineering/13-web-browser-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M13.T05",
+      "module": "M13",
+      "title": "Storage, lifecycle dan jaringan",
+      "path": "knowledge/frontend-engineering/13-web-browser-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M13.T06",
+      "module": "M13",
+      "title": "DevTools sebagai alat penalaran",
+      "path": "knowledge/frontend-engineering/13-web-browser-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M13.T07",
+      "module": "M13",
+      "title": "Diagnosis",
+      "path": "knowledge/frontend-engineering/13-web-browser-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M14.T01",
+      "module": "M14",
+      "title": "HTML adalah kontrak makna",
+      "path": "knowledge/frontend-engineering/14-html-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M14.T02",
+      "module": "M14",
+      "title": "Struktur dan relasi",
+      "path": "knowledge/frontend-engineering/14-html-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M14.T03",
+      "module": "M14",
+      "title": "Link dan button",
+      "path": "knowledge/frontend-engineering/14-html-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M14.T04",
+      "module": "M14",
+      "title": "Media dan dimensi",
+      "path": "knowledge/frontend-engineering/14-html-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M14.T05",
+      "module": "M14",
+      "title": "Forms dalam scope statis",
+      "path": "knowledge/frontend-engineering/14-html-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M14.T06",
+      "module": "M14",
+      "title": "Progressive enhancement",
+      "path": "knowledge/frontend-engineering/14-html-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M14.T07",
+      "module": "M14",
+      "title": "Validasi dan diagnosis",
+      "path": "knowledge/frontend-engineering/14-html-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M15.T01",
+      "module": "M15",
+      "title": "Cascade sebagai sistem",
+      "path": "knowledge/frontend-engineering/15-css-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M15.T02",
+      "module": "M15",
+      "title": "Box model dan layout",
+      "path": "knowledge/frontend-engineering/15-css-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M15.T03",
+      "module": "M15",
+      "title": "Responsif dan token",
+      "path": "knowledge/frontend-engineering/15-css-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M15.T04",
+      "module": "M15",
+      "title": "State dan specificity",
+      "path": "knowledge/frontend-engineering/15-css-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M15.T05",
+      "module": "M15",
+      "title": "Motion dan containment",
+      "path": "knowledge/frontend-engineering/15-css-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M15.T06",
+      "module": "M15",
+      "title": "Arsitektur style",
+      "path": "knowledge/frontend-engineering/15-css-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M15.T07",
+      "module": "M15",
+      "title": "Debugging",
+      "path": "knowledge/frontend-engineering/15-css-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M16.T01",
+      "module": "M16",
+      "title": "Logika dan data",
+      "path": "knowledge/frontend-engineering/16-javascript-types.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M16.T02",
+      "module": "M16",
+      "title": "State dan invariants",
+      "path": "knowledge/frontend-engineering/16-javascript-types.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M16.T03",
+      "module": "M16",
+      "title": "Events dan DOM",
+      "path": "knowledge/frontend-engineering/16-javascript-types.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M16.T04",
+      "module": "M16",
+      "title": "Async dan failure",
+      "path": "knowledge/frontend-engineering/16-javascript-types.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M16.T05",
+      "module": "M16",
+      "title": "Types dan validasi",
+      "path": "knowledge/frontend-engineering/16-javascript-types.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M16.T06",
+      "module": "M16",
+      "title": "Lifecycle dan performance",
+      "path": "knowledge/frontend-engineering/16-javascript-types.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M16.T07",
+      "module": "M16",
+      "title": "Debugging dan pengujian",
+      "path": "knowledge/frontend-engineering/16-javascript-types.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M17.T01",
+      "module": "M17",
+      "title": "Arsitektur mengikuti kebutuhan",
+      "path": "knowledge/architecture-tooling/17-frontend-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M17.T02",
+      "module": "M17",
+      "title": "Rendering dan distribusi",
+      "path": "knowledge/architecture-tooling/17-frontend-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M17.T03",
+      "module": "M17",
+      "title": "Struktur proyek",
+      "path": "knowledge/architecture-tooling/17-frontend-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M17.T04",
+      "module": "M17",
+      "title": "Route dan base path",
+      "path": "knowledge/architecture-tooling/17-frontend-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M17.T05",
+      "module": "M17",
+      "title": "Komponen dan dependency boundaries",
+      "path": "knowledge/architecture-tooling/17-frontend-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M17.T06",
+      "module": "M17",
+      "title": "Content workflow",
+      "path": "knowledge/architecture-tooling/17-frontend-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M17.T07",
+      "module": "M17",
+      "title": "ADR dan evolution",
+      "path": "knowledge/architecture-tooling/17-frontend-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M17.T08",
+      "module": "M17",
+      "title": "Diagnosis",
+      "path": "knowledge/architecture-tooling/17-frontend-architecture.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M18.T01",
+      "module": "M18",
+      "title": "Design system yang sesuai ukuran",
+      "path": "knowledge/architecture-tooling/18-design-system-components.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M18.T02",
+      "module": "M18",
+      "title": "Token bertingkat",
+      "path": "knowledge/architecture-tooling/18-design-system-components.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M18.T03",
+      "module": "M18",
+      "title": "Spesifikasi komponen",
+      "path": "knowledge/architecture-tooling/18-design-system-components.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M18.T04",
+      "module": "M18",
+      "title": "Konsistensi desain dan kode",
+      "path": "knowledge/architecture-tooling/18-design-system-components.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M18.T05",
+      "module": "M18",
+      "title": "Motion tokens dan choreography",
+      "path": "knowledge/architecture-tooling/18-design-system-components.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M18.T06",
+      "module": "M18",
+      "title": "Versioning dan pengelolaan",
+      "path": "knowledge/architecture-tooling/18-design-system-components.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M18.T07",
+      "module": "M18",
+      "title": "Diagnosis",
+      "path": "knowledge/architecture-tooling/18-design-system-components.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M19.T01",
+      "module": "M19",
+      "title": "Tooling membantu reproducibility",
+      "path": "knowledge/architecture-tooling/19-development-tooling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M19.T02",
+      "module": "M19",
+      "title": "Lingkungan dan dependency",
+      "path": "knowledge/architecture-tooling/19-development-tooling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M19.T03",
+      "module": "M19",
+      "title": "Build pipeline",
+      "path": "knowledge/architecture-tooling/19-development-tooling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M19.T04",
+      "module": "M19",
+      "title": "Debugging workflow",
+      "path": "knowledge/architecture-tooling/19-development-tooling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M19.T05",
+      "module": "M19",
+      "title": "Static preview",
+      "path": "knowledge/architecture-tooling/19-development-tooling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M19.T06",
+      "module": "M19",
+      "title": "Quality automation",
+      "path": "knowledge/architecture-tooling/19-development-tooling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M19.T07",
+      "module": "M19",
+      "title": "Supply chain dan keterawatan",
+      "path": "knowledge/architecture-tooling/19-development-tooling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M19.T08",
+      "module": "M19",
+      "title": "Diagnosis",
+      "path": "knowledge/architecture-tooling/19-development-tooling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M20.T01",
+      "module": "M20",
+      "title": "AI sebagai pelaksana yang diverifikasi",
+      "path": "knowledge/architecture-tooling/20-ai-assisted-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M20.T02",
+      "module": "M20",
+      "title": "Brief kerja yang efektif",
+      "path": "knowledge/architecture-tooling/20-ai-assisted-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M20.T03",
+      "module": "M20",
+      "title": "Kerja bertahap dan sumber kebenaran",
+      "path": "knowledge/architecture-tooling/20-ai-assisted-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M20.T04",
+      "module": "M20",
+      "title": "Review output kode",
+      "path": "knowledge/architecture-tooling/20-ai-assisted-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M20.T05",
+      "module": "M20",
+      "title": "Source dan research discipline",
+      "path": "knowledge/architecture-tooling/20-ai-assisted-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M20.T06",
+      "module": "M20",
+      "title": "Evaluasi dan feedback loop",
+      "path": "knowledge/architecture-tooling/20-ai-assisted-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M20.T07",
+      "module": "M20",
+      "title": "Diagnosis kolaborasi",
+      "path": "knowledge/architecture-tooling/20-ai-assisted-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M20.T08",
+      "module": "M20",
+      "title": "Template handoff",
+      "path": "knowledge/architecture-tooling/20-ai-assisted-engineering.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M21.T01",
+      "module": "M21",
+      "title": "Fungsi dan bahasa gerak",
+      "path": "knowledge/motion/21-motion-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M21.T02",
+      "module": "M21",
+      "title": "Timing dan duration",
+      "path": "knowledge/motion/21-motion-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M21.T03",
+      "module": "M21",
+      "title": "Easing dan interpolasi",
+      "path": "knowledge/motion/21-motion-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M21.T04",
+      "module": "M21",
+      "title": "Principles sebagai alat",
+      "path": "knowledge/motion/21-motion-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M21.T05",
+      "module": "M21",
+      "title": "Choreography dan hierarchy",
+      "path": "knowledge/motion/21-motion-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M21.T06",
+      "module": "M21",
+      "title": "Motion system",
+      "path": "knowledge/motion/21-motion-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M21.T07",
+      "module": "M21",
+      "title": "Quality dan diagnosis",
+      "path": "knowledge/motion/21-motion-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M21.T08",
+      "module": "M21",
+      "title": "Pengujian",
+      "path": "knowledge/motion/21-motion-foundations.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M22.T01",
+      "module": "M22",
+      "title": "Microinteraction anatomy",
+      "path": "knowledge/motion/22-interface-motion.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M22.T02",
+      "module": "M22",
+      "title": "State versus animation",
+      "path": "knowledge/motion/22-interface-motion.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M22.T03",
+      "module": "M22",
+      "title": "CSS, WAAPI atau engine",
+      "path": "knowledge/motion/22-interface-motion.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M22.T04",
+      "module": "M22",
+      "title": "Reveal yang tangguh",
+      "path": "knowledge/motion/22-interface-motion.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M22.T05",
+      "module": "M22",
+      "title": "Dialog dan disclosure",
+      "path": "knowledge/motion/22-interface-motion.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M22.T06",
+      "module": "M22",
+      "title": "Feedback yang dapat dipercaya",
+      "path": "knowledge/motion/22-interface-motion.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M22.T07",
+      "module": "M22",
+      "title": "Diagnosis dan edge cases",
+      "path": "knowledge/motion/22-interface-motion.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M23.T01",
+      "module": "M23",
+      "title": "Scroll sebagai input yang dimiliki pengguna",
+      "path": "knowledge/motion/23-scroll-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M23.T02",
+      "module": "M23",
+      "title": "Pemetaan progress",
+      "path": "knowledge/motion/23-scroll-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M23.T03",
+      "module": "M23",
+      "title": "Sticky storytelling",
+      "path": "knowledge/motion/23-scroll-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M23.T04",
+      "module": "M23",
+      "title": "Parallax dan intensitas",
+      "path": "knowledge/motion/23-scroll-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M23.T05",
+      "module": "M23",
+      "title": "Implementasi",
+      "path": "knowledge/motion/23-scroll-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M23.T06",
+      "module": "M23",
+      "title": "Accessibility dan navigation",
+      "path": "knowledge/motion/23-scroll-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M23.T07",
+      "module": "M23",
+      "title": "Failure modes",
+      "path": "knowledge/motion/23-scroll-storytelling.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M24.T01",
+      "module": "M24",
+      "title": "Memilih medium gerak",
+      "path": "knowledge/motion/24-animation-graphics.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M24.T02",
+      "module": "M24",
+      "title": "Time-based animation",
+      "path": "knowledge/motion/24-animation-graphics.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M24.T03",
+      "module": "M24",
+      "title": "Geometry dan koordinat",
+      "path": "knowledge/motion/24-animation-graphics.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M24.T04",
+      "module": "M24",
+      "title": "Canvas engineering",
+      "path": "knowledge/motion/24-animation-graphics.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M24.T05",
+      "module": "M24",
+      "title": "WebGL sebagai cabang lanjutan",
+      "path": "knowledge/motion/24-animation-graphics.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M24.T06",
+      "module": "M24",
+      "title": "Resource dan cleanup",
+      "path": "knowledge/motion/24-animation-graphics.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M24.T07",
+      "module": "M24",
+      "title": "Diagnosis",
+      "path": "knowledge/motion/24-animation-graphics.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M25.T01",
+      "module": "M25",
+      "title": "Loading sebagai jalur kritis",
+      "path": "knowledge/performance-reliability/25-loading-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M25.T02",
+      "module": "M25",
+      "title": "Anggaran performa",
+      "path": "knowledge/performance-reliability/25-loading-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M25.T03",
+      "module": "M25",
+      "title": "Gambar",
+      "path": "knowledge/performance-reliability/25-loading-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M25.T04",
+      "module": "M25",
+      "title": "Font dan CSS",
+      "path": "knowledge/performance-reliability/25-loading-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M25.T05",
+      "module": "M25",
+      "title": "JavaScript",
+      "path": "knowledge/performance-reliability/25-loading-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M25.T06",
+      "module": "M25",
+      "title": "Video, embeds dan pihak ketiga",
+      "path": "knowledge/performance-reliability/25-loading-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M25.T07",
+      "module": "M25",
+      "title": "Cache dan output",
+      "path": "knowledge/performance-reliability/25-loading-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M25.T08",
+      "module": "M25",
+      "title": "Diagnosis",
+      "path": "knowledge/performance-reliability/25-loading-assets.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M26.T01",
+      "module": "M26",
+      "title": "Runtime performance",
+      "path": "knowledge/performance-reliability/26-runtime-performance.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M26.T02",
+      "module": "M26",
+      "title": "Main thread dan long tasks",
+      "path": "knowledge/performance-reliability/26-runtime-performance.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M26.T03",
+      "module": "M26",
+      "title": "Read, compute, write",
+      "path": "knowledge/performance-reliability/26-runtime-performance.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M26.T04",
+      "module": "M26",
+      "title": "Layer, paint dan GPU",
+      "path": "knowledge/performance-reliability/26-runtime-performance.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M26.T05",
+      "module": "M26",
+      "title": "Lifecycle dan visibility",
+      "path": "knowledge/performance-reliability/26-runtime-performance.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M26.T06",
+      "module": "M26",
+      "title": "Motion quality",
+      "path": "knowledge/performance-reliability/26-runtime-performance.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M26.T07",
+      "module": "M26",
+      "title": "Prioritas optimasi",
+      "path": "knowledge/performance-reliability/26-runtime-performance.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M26.T08",
+      "module": "M26",
+      "title": "Diagnosis",
+      "path": "knowledge/performance-reliability/26-runtime-performance.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M27.T01",
+      "module": "M27",
+      "title": "Reliability untuk situs statis",
+      "path": "knowledge/performance-reliability/27-reliability-compatibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M27.T02",
+      "module": "M27",
+      "title": "Progressive enhancement",
+      "path": "knowledge/performance-reliability/27-reliability-compatibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M27.T03",
+      "module": "M27",
+      "title": "Browser matrix",
+      "path": "knowledge/performance-reliability/27-reliability-compatibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M27.T04",
+      "module": "M27",
+      "title": "Asset dan content failure",
+      "path": "knowledge/performance-reliability/27-reliability-compatibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M27.T05",
+      "module": "M27",
+      "title": "Preference dan capability changes",
+      "path": "knowledge/performance-reliability/27-reliability-compatibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M27.T06",
+      "module": "M27",
+      "title": "Failure recovery",
+      "path": "knowledge/performance-reliability/27-reliability-compatibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M27.T07",
+      "module": "M27",
+      "title": "Diagnosis",
+      "path": "knowledge/performance-reliability/27-reliability-compatibility.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M28.T01",
+      "module": "M28",
+      "title": "Threat model yang sesuai",
+      "path": "knowledge/performance-reliability/28-security-privacy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M28.T02",
+      "module": "M28",
+      "title": "Untrusted input dan XSS",
+      "path": "knowledge/performance-reliability/28-security-privacy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M28.T03",
+      "module": "M28",
+      "title": "Rahasia dan repository",
+      "path": "knowledge/performance-reliability/28-security-privacy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M28.T04",
+      "module": "M28",
+      "title": "CSP dan host limits",
+      "path": "knowledge/performance-reliability/28-security-privacy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M28.T05",
+      "module": "M28",
+      "title": "Dependencies dan third party",
+      "path": "knowledge/performance-reliability/28-security-privacy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M28.T06",
+      "module": "M28",
+      "title": "Privacy dan hak aset",
+      "path": "knowledge/performance-reliability/28-security-privacy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M28.T07",
+      "module": "M28",
+      "title": "Security verification",
+      "path": "knowledge/performance-reliability/28-security-privacy.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M29.T01",
+      "module": "M29",
+      "title": "Strategi berdasarkan risiko",
+      "path": "knowledge/verification-production/29-testing-design-qa.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M29.T02",
+      "module": "M29",
+      "title": "Lapisan pemeriksaan",
+      "path": "knowledge/verification-production/29-testing-design-qa.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M29.T03",
+      "module": "M29",
+      "title": "Test matrix",
+      "path": "knowledge/verification-production/29-testing-design-qa.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M29.T04",
+      "module": "M29",
+      "title": "Visual QA",
+      "path": "knowledge/verification-production/29-testing-design-qa.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M29.T05",
+      "module": "M29",
+      "title": "Accessibility QA",
+      "path": "knowledge/verification-production/29-testing-design-qa.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M29.T06",
+      "module": "M29",
+      "title": "Performance dan regression",
+      "path": "knowledge/verification-production/29-testing-design-qa.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M29.T07",
+      "module": "M29",
+      "title": "Status dan evidence",
+      "path": "knowledge/verification-production/29-testing-design-qa.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M29.T08",
+      "module": "M29",
+      "title": "Diagnosis dan completion",
+      "path": "knowledge/verification-production/29-testing-design-qa.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M30.T01",
+      "module": "M30",
+      "title": "Pertanyaan pengukuran",
+      "path": "knowledge/verification-production/30-performance-measurement.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M30.T02",
+      "module": "M30",
+      "title": "Core Web Vitals",
+      "path": "knowledge/verification-production/30-performance-measurement.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M30.T03",
+      "module": "M30",
+      "title": "Protokol lab",
+      "path": "knowledge/verification-production/30-performance-measurement.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M30.T04",
+      "module": "M30",
+      "title": "Trace dan attribution",
+      "path": "knowledge/verification-production/30-performance-measurement.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M30.T05",
+      "module": "M30",
+      "title": "Budget dan experiment",
+      "path": "knowledge/verification-production/30-performance-measurement.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M30.T06",
+      "module": "M30",
+      "title": "Field dan monitoring",
+      "path": "knowledge/verification-production/30-performance-measurement.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M30.T07",
+      "module": "M30",
+      "title": "Diagnosis dan pelaporan",
+      "path": "knowledge/verification-production/30-performance-measurement.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M31.T01",
+      "module": "M31",
+      "title": "Git sebagai riwayat yang dapat ditinjau",
+      "path": "knowledge/verification-production/31-github-production-seo.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M31.T02",
+      "module": "M31",
+      "title": "GitHub Pages dan biaya",
+      "path": "knowledge/verification-production/31-github-production-seo.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M31.T03",
+      "module": "M31",
+      "title": "Publish source dan output",
+      "path": "knowledge/verification-production/31-github-production-seo.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M31.T04",
+      "module": "M31",
+      "title": "Post-deploy verification",
+      "path": "knowledge/verification-production/31-github-production-seo.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M31.T05",
+      "module": "M31",
+      "title": "SEO dan metadata",
+      "path": "knowledge/verification-production/31-github-production-seo.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M31.T06",
+      "module": "M31",
+      "title": "Accessibility dan discoverability",
+      "path": "knowledge/verification-production/31-github-production-seo.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M31.T07",
+      "module": "M31",
+      "title": "Recovery dan maintenance",
+      "path": "knowledge/verification-production/31-github-production-seo.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M31.T08",
+      "module": "M31",
+      "title": "Diagnosis",
+      "path": "knowledge/verification-production/31-github-production-seo.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M32.T01",
+      "module": "M32",
+      "title": "Portofolio sebagai sistem yang hidup",
+      "path": "knowledge/verification-production/32-maintenance-feedback.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M32.T02",
+      "module": "M32",
+      "title": "Content operations",
+      "path": "knowledge/verification-production/32-maintenance-feedback.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M32.T03",
+      "module": "M32",
+      "title": "Feedback loop",
+      "path": "knowledge/verification-production/32-maintenance-feedback.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M32.T04",
+      "module": "M32",
+      "title": "Release dan regression",
+      "path": "knowledge/verification-production/32-maintenance-feedback.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M32.T05",
+      "module": "M32",
+      "title": "Incident kecil",
+      "path": "knowledge/verification-production/32-maintenance-feedback.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M32.T06",
+      "module": "M32",
+      "title": "Pemeliharaan knowledge base",
+      "path": "knowledge/verification-production/32-maintenance-feedback.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M32.T07",
+      "module": "M32",
+      "title": "Backlog berdasarkan manfaat",
+      "path": "knowledge/verification-production/32-maintenance-feedback.md",
+      "status": "authored-section"
+    },
+    {
+      "id": "M32.T08",
+      "module": "M32",
+      "title": "Handoff dan continuity",
+      "path": "knowledge/verification-production/32-maintenance-feedback.md",
+      "status": "authored-section"
+    }
+  ]
+}

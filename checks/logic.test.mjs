@@ -1,0 +1,22 @@
+import assert from 'node:assert/strict';
+import { selectProjects, countLabel } from '../examples/portfolio-lab/model.mjs';
+import { pageProgress, clamp } from '../examples/scroll-lab/progress.mjs';
+const items = [{id:'a',categories:['frontend']},{id:'b',categories:['frontend','motion']},{id:'c',categories:['motion']}];
+let checks=0;
+function check(title,fn){fn();checks++;console.log(`PASS ${title}`);}
+check('all preserves original order',()=>assert.deepEqual(selectProjects(items,'all').map(x=>x.id),['a','b','c']));
+check('frontend selects both matching projects',()=>assert.deepEqual(selectProjects(items,'frontend').map(x=>x.id),['a','b']));
+check('motion handles overlapping category',()=>assert.deepEqual(selectProjects(items,'motion').map(x=>x.id),['b','c']));
+check('missing category returns empty',()=>assert.deepEqual(selectProjects(items,'research'),[]));
+check('filter does not mutate input',()=>{selectProjects(items,'motion');assert.deepEqual(items.map(x=>x.id),['a','b','c']);});
+check('zero count is explicit',()=>assert.equal(countLabel(0),'0 proyek latihan ditampilkan.'));
+check('negative count rejected',()=>assert.throws(()=>countLabel(-1),RangeError));
+check('noninteger count rejected',()=>assert.throws(()=>countLabel(.5),RangeError));
+check('progress top zero',()=>assert.equal(pageProgress(0,2000,1000),0));
+check('progress midpoint correct',()=>assert.equal(pageProgress(500,2000,1000),.5));
+check('progress clamps overscroll',()=>assert.equal(pageProgress(1200,2000,1000),1));
+check('negative scroll clamped',()=>assert.equal(pageProgress(-100,2000,1000),0));
+check('zero scroll range safe',()=>assert.equal(pageProgress(0,1000,1000),0));
+check('short document safe',()=>assert.equal(pageProgress(0,500,1000),0));
+check('nonfinite progress safe',()=>assert.equal(clamp(NaN),0));
+console.log(JSON.stringify({status:'PASS',checks}));
