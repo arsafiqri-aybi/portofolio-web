@@ -1,0 +1,392 @@
+{
+  "checked_date": "2026-10-08",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "MDN — Structuring content",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Indeks HTML dan semantik; bagian tertentu diperiksa, bukan seluruh kurikulum.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S02",
+      "title": "W3C — WCAG 2.2",
+      "url": "https://www.w3.org/TR/WCAG22/",
+      "type": "normative",
+      "access_status": "verified-excerpt",
+      "note": "Kriteria kontras, target pointer dan struktur konformansi diperiksa. Bukan audit seluruh implementasi.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S03",
+      "title": "web.dev — Web Vitals",
+      "url": "https://web.dev/articles/vitals",
+      "type": "official-guide",
+      "access_status": "verified-excerpt",
+      "note": "LCP/INP/CLS dan evaluasi p75 mobile/desktop diperiksa.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S04",
+      "title": "MDN — CSS cascade",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascade/Introduction",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Halaman cascade dibuka; aturan rinci dicek lagi saat digunakan.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S05",
+      "title": "MDN — Animation performance",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Animation_performance_and_frame_rate",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Halaman performa animasi dibuka; bukan benchmark proyek.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S06",
+      "title": "MDN — Using WAAPI",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Halaman WAAPI dibuka; dukungan target perlu diperiksa saat implementasi.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S07",
+      "title": "MDN — prefers-reduced-motion",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Rujukan preferensi gerak dibuka; audit runtime tetap diperlukan.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S08",
+      "title": "W3C APG — Dialog modal",
+      "url": "https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Pola dialog dibuka; APG informatif, bukan seluruh WCAG.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S09",
+      "title": "MDN — CSP implementation",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Practical_implementation_guides/CSP",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Panduan CSP dibuka; policy host perlu diuji.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S10",
+      "title": "Git — revert",
+      "url": "https://git-scm.com/docs/git-revert",
+      "type": "official-reference",
+      "access_status": "opened",
+      "note": "Dokumentasi revert dibuka; contoh recovery harus cocok history.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S11",
+      "title": "GitHub — Pages limits",
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits",
+      "type": "official-policy",
+      "access_status": "verified-excerpt",
+      "note": "Availability, ukuran, bandwidth, timeout dan build limits diperiksa.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S12",
+      "title": "Google — SEO starter guide",
+      "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Panduan SEO dibuka; tidak menjamin ranking.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S13",
+      "title": "GOV.UK — moderated usability testing",
+      "url": "https://www.gov.uk/service-manual/user-research/using-moderated-usability-testing",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Rujukan metode; belum dibaca ulang dalam putaran ini.",
+      "checked_at": null
+    },
+    {
+      "id": "S14",
+      "title": "W3C — CSS Color 4",
+      "url": "https://www.w3.org/TR/css-color-4/",
+      "type": "specification",
+      "access_status": "reading-list",
+      "note": "Pendalaman color space; versi/status dan dukungan perlu diperiksa.",
+      "checked_at": null
+    },
+    {
+      "id": "S15",
+      "title": "MDN — CSS layout",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Rujukan Flexbox/Grid/layout; belum diaudit ulang.",
+      "checked_at": null
+    },
+    {
+      "id": "S16",
+      "title": "MDN — CSS Fonts",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_fonts",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Font loading dan metrik; cek dukungan/version saat dipakai.",
+      "checked_at": null
+    },
+    {
+      "id": "S17",
+      "title": "web.dev — Learn Images",
+      "url": "https://web.dev/learn/images",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Pipeline gambar; tidak memverifikasi lisensi aset pengguna.",
+      "checked_at": null
+    },
+    {
+      "id": "S18",
+      "title": "MDN — dialog",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Behavior native dialog dan dukungan; belum dibaca ulang.",
+      "checked_at": null
+    },
+    {
+      "id": "S19",
+      "title": "MDN — Media queries",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Capability/viewport queries; dukungan harus dicek.",
+      "checked_at": null
+    },
+    {
+      "id": "S20",
+      "title": "MDN — requestAnimationFrame",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame",
+      "type": "official-reference",
+      "access_status": "opened",
+      "note": "API rAF dibuka; contoh repo ditulis sendiri.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S21",
+      "title": "WHATWG — Event loops",
+      "url": "https://html.spec.whatwg.org/multipage/webappapis.html#event-loops",
+      "type": "normative",
+      "access_status": "reading-list",
+      "note": "Detail scheduling; bukan seluruh spec telah dibaca.",
+      "checked_at": null
+    },
+    {
+      "id": "S22",
+      "title": "WHATWG — HTML",
+      "url": "https://html.spec.whatwg.org/",
+      "type": "normative",
+      "access_status": "reading-list",
+      "note": "Spesifikasi elemen; living standard perlu cek section relevan.",
+      "checked_at": null
+    },
+    {
+      "id": "S23",
+      "title": "MDN — Stacking context",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_positioned_layout/Stacking_context",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Pendalaman z-index dan konteks; belum diaudit ulang.",
+      "checked_at": null
+    },
+    {
+      "id": "S24",
+      "title": "MDN — JavaScript Guide",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Pendalaman bahasa; belum seluruh guide dibaca.",
+      "checked_at": null
+    },
+    {
+      "id": "S25",
+      "title": "TypeScript — Narrowing",
+      "url": "https://www.typescriptlang.org/docs/handbook/2/narrowing.html",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Type narrowing; tidak memvalidasi data runtime.",
+      "checked_at": null
+    },
+    {
+      "id": "S26",
+      "title": "MDN — Using Fetch",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Handling response/failure; cek API saat dipakai.",
+      "checked_at": null
+    },
+    {
+      "id": "S27",
+      "title": "GitHub — Creating Pages site",
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Deployment source; periksa lagi saat publish nyata.",
+      "checked_at": null
+    },
+    {
+      "id": "S28",
+      "title": "Node.js — Documentation",
+      "url": "https://nodejs.org/api/",
+      "type": "official-reference",
+      "access_status": "reading-list",
+      "note": "Runtime/tooling; versi tidak dipaksakan pada repo.",
+      "checked_at": null
+    },
+    {
+      "id": "S29",
+      "title": "npm — npm ci",
+      "url": "https://docs.npmjs.com/cli/v11/commands/npm-ci",
+      "type": "official-reference",
+      "access_status": "reading-list",
+      "note": "Reproducible install; URL versioned dan perlu disesuaikan runtime.",
+      "checked_at": null
+    },
+    {
+      "id": "S30",
+      "title": "MDN — Scroll-driven animations",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_scroll-driven_animations",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Cabang lanjutan; belum diverifikasi pada target browser.",
+      "checked_at": null
+    },
+    {
+      "id": "S31",
+      "title": "MDN — Canvas tutorial",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Indeks drawing dan lifecycle diperiksa; bukan seluruh tutorial.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S32",
+      "title": "MDN — WebGL best practices",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Halaman praktik WebGL dibuka; scene 3D production belum dibuat.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S33",
+      "title": "web.dev — Optimize LCP",
+      "url": "https://web.dev/articles/optimize-lcp",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Attribution loading; belum diaudit ulang.",
+      "checked_at": null
+    },
+    {
+      "id": "S34",
+      "title": "Chrome — Performance panel",
+      "url": "https://developer.chrome.com/docs/devtools/performance",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Profiling; fitur UI/versi bisa berubah.",
+      "checked_at": null
+    },
+    {
+      "id": "S35",
+      "title": "MDN — IntersectionObserver",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
+      "type": "official-reference",
+      "access_status": "opened",
+      "note": "API observer dibuka; tidak sama dengan progress per frame.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S36",
+      "title": "OWASP — XSS Prevention",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Security guidance; bukan audit keamanan lengkap.",
+      "checked_at": null
+    },
+    {
+      "id": "S37",
+      "title": "OWASP — Third Party JS",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Third_Party_Javascript_Management_Cheat_Sheet.html",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Trust boundary dependency; cek bagian relevan saat integrasi.",
+      "checked_at": null
+    },
+    {
+      "id": "S38",
+      "title": "Playwright — Best practices",
+      "url": "https://playwright.dev/docs/best-practices",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Browser automation; bukan user research.",
+      "checked_at": null
+    },
+    {
+      "id": "S39",
+      "title": "Chrome — Lighthouse",
+      "url": "https://developer.chrome.com/docs/lighthouse/overview",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Audit lab; belum dijalankan sebagai field measurement.",
+      "checked_at": null
+    },
+    {
+      "id": "S40",
+      "title": "GitHub — About Pages",
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+      "type": "official-guide",
+      "access_status": "opened",
+      "note": "Tentang static hosting dibuka pada percakapan biaya sebelumnya.",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "S41",
+      "title": "GitHub — Actions permissions",
+      "url": "https://docs.github.com/en/actions/security-for-github-actions/security-guides/automatic-token-authentication",
+      "type": "official-guide",
+      "access_status": "reading-list",
+      "note": "Permissions minimum; tidak ada workflow ditambahkan dalam release ini.",
+      "checked_at": null
+    },
+    {
+      "id": "R01",
+      "title": "Tuch et al. — visual complexity",
+      "url": "https://research.google/pubs/the-role-of-visual-complexity-and-prototypicality-regarding-first-impression-of-websites-working-towards-understanding-aesthetic-judgments/",
+      "type": "primary-research",
+      "access_status": "inherited-reference",
+      "note": "Disebut dalam panduan pribadi. Abstrak tidak dibaca ulang; jangan infer konversi.",
+      "checked_at": null
+    },
+    {
+      "id": "P01",
+      "title": "Website Builder — panduan pribadi",
+      "url": "internal-user-guide",
+      "type": "user-guide",
+      "access_status": "read",
+      "note": "Panduan dan hasil serta lima referensi terpasang dibaca. Sintesis alur, bukan bukti hasil pengguna.",
+      "checked_at": "2026-10-08"
+    }
+  ]
+}
